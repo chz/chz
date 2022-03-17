@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **info@chz.dev**
 
-- 📄 Know about my experiences [https://chzdev.cdn.prismic.io/chzdev/af5fcb09-bf23-437e-870f-f18c72e5e514_cv.pdf](https://chzdev.cdn.prismic.io/chzdev/af5fcb09-bf23-437e-870f-f18c72e5e514_cv.pdf)
-
 - ⚡ Fun fact **3+ Broken Chairs :D**
 
 <h3 align="left">Connect with me:</h3>
