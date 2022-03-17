@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chz&show_icons=true&locale=en" alt="chz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chz&" alt="chz" /></p>
+
+  <p align="center">
+    <a href="https://github.com/chz"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
