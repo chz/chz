@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://chz.dev](https://chz.dev)
 
-- 📝 I regularly write articles on [https://chz.dev](https://chz.dev)
-
 - 💬 Ask me about **VueJs, Nuxtjs, Javascript, HTML, CSS, WordPress**
 
 - 📫 How to reach me **info@chz.dev**
