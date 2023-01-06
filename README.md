@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chingiz a.k.a CHZ</h1>
-<h3 align="center">I'm a creative Front end Engineer with 11+ years of professional experience. I develop compelling designs that spring to life using transition and animations that suit my clients, using the most sophisticated technologies available today for fully interactive and responsive websites. I love working with agencies and brands to help them realize their goal of creating truly outstanding digital properties that get them and their clients the results they need.</h3>
+<h3 align="center">I'm a creative Front end Engineer with 12+ years of professional experience. I develop compelling designs that spring to life using transition and animations that suit my clients, using the most sophisticated technologies available today for fully interactive and responsive websites. I love working with agencies and brands to help them realize their goal of creating truly outstanding digital properties that get them and their clients the results they need.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chz&label=Profile%20views&color=0e75b6&style=flat" alt="chz" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://chz.dev](https://chz.dev)
 
-- 💬 Ask me about **VueJs, Nuxtjs, Javascript, HTML, CSS, WordPress**
+- 💬 Ask me about **Vue, Nuxt, Javascript, HTML, CSS, WordPress**
 
 - 📫 How to reach me **info@chz.dev**
 
-- ⚡ Fun fact **3+ Broken Chairs :D**
+- ⚡ Fun fact **4+ Broken Chairs :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/chingiz-mammadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chingiz-mammadov" height="30" width="40" /></a>
 <a href="https://fb.com/chz.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chz.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@chzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chzdev" height="30" width="40" /></a>
+<a href="https://youtube.com/@chzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chzdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
