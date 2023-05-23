@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chingiz a.k.a CHZ</h1>
-<h3 align="center">I'm a creative Front end Engineer with 12+ years of professional experience. I develop compelling designs that spring to life using transition and animations that suit my clients, using the most sophisticated technologies available today for fully interactive and responsive websites. I love working with agencies and brands to help them realize their goal of creating truly outstanding digital properties that get them and their clients the results they need.</h3>
+<h3 align="center">I'm a creative Front end Engineer with 13+ years of professional experience. I develop compelling designs that spring to life using transition and animations that suit my clients, using the most sophisticated technologies available today for fully interactive and responsive websites. I love working with agencies and brands to help them realize their goal of creating truly outstanding digital properties that get them and their clients the results they need.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chz&label=Profile%20views&color=0e75b6&style=flat" alt="chz" /> </p>
 
