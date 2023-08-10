@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **4+ Broken Chairs :D**
 
+<h3 align="left">Buy me a coffee</h3>
+<a href="https://bmc.link/chzdev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1047/1047462.png" alt="Buy me a coffee" height="40" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chz" height="30" width="40" /></a>
