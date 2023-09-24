@@ -11,9 +11,6 @@
 
 - ⚡ Fun fact **4+ Broken Chairs :D**
 
-# 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chz" alt="chz" /></a> </p>
-
 # Buy me a coffee
 <a href="https://bmc.link/chzdev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1047/1047462.png" alt="Buy me a coffee" height="40" width="40" /></a>
 
