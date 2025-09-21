@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chingiz a.k.a CHZ</h1>
 <h3 align="center">I'm a Software Engineer with 15+ years of professional experience. I develop compelling designs that spring to life using transition and animations that suit my clients, using the most sophisticated technologies available today for fully interactive and responsive websites. I love working with agencies and brands to help them realize their goal of creating truly outstanding digital properties that get them and their clients the results they need.</h3>
 
-- 🔭 I’m currently working on [Umico](https://umico.az)
+- 🔭 I’m currently working on [Birmarket](https://birmarket.az)
 
 - 👨‍💻 All of my projects are available at [https://chz.dev](https://chz.dev)
 
